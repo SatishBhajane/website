@@ -1,0 +1,15 @@
+http://weisscrm.ecotechservices.com/#/Login
+http://qaweiss.ecotechservices.com/#/Login
+http://devweiss.ecotechservices.com/#/Login
+http://dev-handgloves.ecotechservices.com/home
+http://bidgateuat.ecotechservices.com/#/login?returnUrl=%2F
+http://appupportal.ecotechservices.com/MemberUser/Login
+http://appupbackup.ecotechservices.com/MemberUser/Login
+
+192.168.27.7	SQLServer 
+192.168.27.22	Dot Net server
+192.168.27.84	OIC Portal
+192.168.27.199	Zabbix Server
+192.168.27.20	Ad server Primary
+192.168.27.154	Vmware 6.0
+192.168.27.98	Vmware 6.0
